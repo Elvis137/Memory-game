@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!]https://github.com/Elvis137/Memory-game.git
+## <b> [Click here to Play the GAME!!]file:///C:/Users/Lenovo/OneDrive%20-%20MNNIT%20Allahabad,%20Prayagraj,%20India/Desktop/Memory-Matching-Game/index.html
 
 
 This project is made using HTML,CSS &amp; JavaScript.
